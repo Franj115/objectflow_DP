@@ -1,0 +1,12 @@
+__pycache__/
+.ruff_cache/
+*.py[cod]
+.venv/
+.DS_Store
+
+data/
+runs/
+outputs/
+*.pt
+*.pth
+*.ckpt
